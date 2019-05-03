@@ -1,4 +1,5 @@
 #PDFMerger for PHP (PHP 5 and above up to PHP 7.1 Compatible)
+
 (this fork only has one character difference from Vasiliy: a slash before the class name for FPDI)
 
 PDFMerger created by Jarrod Nettles December 2009 jarrod@squarecrow.com
